@@ -1,0 +1,6 @@
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+*.env
+toolbox_project/toolbox_project/settings.py
